@@ -2,16 +2,6 @@
 window.EXTENSIONS_DATA = {
   "extensions": [
     {
-      "id": "activate-enable-right-click",
-      "title": "Activate Enable Right Click & Copy",
-      "description": "Activate Enable Right-Click & Copy extension restores your browsing freedom by Allow right-click, text selection, copy, and access to the context menu on websites that block them.",
-      "rating": 4.3,
-      "downloads": "50,000+",
-      "icon": "https://lh3.googleusercontent.com/gtD9h4Bf-39serQopkKtKrSIvdpzj4wTxiuOXSxLUCnSwgipmSXjPolK2c7edIM6L_8gbVuHubYwIwXeMoMcOOFV=s60",
-      "chrome_url": "https://chromewebstore.google.com/detail/activate-enable-right-cli/pkoccklolohdacbfooifnpebakpbeipc",
-      "edge_url": "https://microsoftedge.microsoft.com/addons/detail/activate-enable-right-cli/inmkjedjdhgpknjogbjomhnbgdccckkg"
-    },
-    {
       "id": "volume-master",
       "title": "Volume Master",
       "description": "Volume Master is a powerful Chrome extension that gives you precise control over audio playback in your browser. this extension allows you to boost volume up to 600% while maintaining audio quality.",
@@ -22,9 +12,9 @@ window.EXTENSIONS_DATA = {
       "edge_url": "https://microsoftedge.microsoft.com/addons/detail/volume-master/hgkfgllocooomgembojboobeiemjhfeb"
     },
     {
-      "id": "audio-capture",
-      "title": "Audio Capture",
-      "description": "Audio Capture is a powerful web audio capture extension that enables effortless recording audio from any active browser tab. this tool delivers high-quality results with just a click – no setup required.",
+      "id": "Chrome-audio-capture",
+      "title": "Chrome Audio Capture",
+      "description": "Chrome Audio Capture is a powerful audio capture extension that enables effortless recording audio from any active browser tab. this tool delivers high-quality results with just a click – no setup required.",
       "rating": 4.3,
       "downloads": "700+",
       "icon": "https://lh3.googleusercontent.com/hwLOBKTDiZEdhCiYL86YNqygl5_-Q_0LAt65QcJR0OEYIIKa0_iWr5-3BYJs0oxZf8yNF6QehiP8IRBskIKUlyqgXA=s60",
@@ -83,3 +73,4 @@ window.EXTENSIONS_DATA = {
     }
   ]
 };
+
